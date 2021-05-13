@@ -1,2 +1,4 @@
 C:\Users\Myste\source\repos\myAcTrainer\Debug\myAcTrainer.dll
 C:\Users\Myste\source\repos\myAcTrainer\Debug\myAcTrainer.pdb
+G:\@\_\AcTrainer\myAcTrainer\Debug\myAcTrainer.dll
+G:\@\_\AcTrainer\myAcTrainer\Debug\myAcTrainer.pdb
